@@ -4,4 +4,4 @@ The piggybank concept is well-known and has been around for a while now. A piggy
 
 When it comes to Solidity, a piggybank smart contract is a self-isolated saving structure that enables a user to save money in a given account. Only the appointed owner by the smart contract can withdraw the money from that particular account. 
 
-Once the money has been withdrawn, the self-destruct is used to destroy the smart contract and remove all the byte code from it.
+Once the money has been withdrawn, the self destruct function is used to destroy the smart contract and remove all the byte code from it.
